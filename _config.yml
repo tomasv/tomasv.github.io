@@ -1,0 +1,13 @@
+title: Tomas Varneckas' Blog
+author: Tomas Varneckas
+simple_search: https://www.google.com/search
+description: Software development and more
+
+github_username: tomasv
+twitter_username: thetomasv
+
+baseurl: ''
+url: 'http://blog.varneckas.lt'
+email: 't.varneckas@gmail.com'
+
+markdown: kramdown
